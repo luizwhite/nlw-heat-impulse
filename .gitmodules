@@ -4,3 +4,6 @@
 [submodule "reactjs"]
 	path = reactjs
 	url = git@github.com:luizwhite/nlw-heat-reactjs.git
+[submodule "expo"]
+	path = expo
+	url = git@github.com:luizwhite/nlw-heat-expo.git

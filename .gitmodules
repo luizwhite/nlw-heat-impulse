@@ -1,3 +1,6 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = git@github.com:luizwhite/nlw-heat-node.git
+[submodule "reactjs"]
+	path = reactjs
+	url = git@github.com:luizwhite/nlw-heat-reactjs.git

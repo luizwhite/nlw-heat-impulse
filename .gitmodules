@@ -7,3 +7,6 @@
 [submodule "expo"]
 	path = expo
 	url = git@github.com:luizwhite/nlw-heat-expo.git
+[submodule "elixir"]
+	path = elixir
+	url = git@github.com:luizwhite/nlw-heat-elixir.git
